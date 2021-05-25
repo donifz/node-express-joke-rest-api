@@ -1,0 +1,19 @@
+{
+  "name": "newnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Don",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "mongoose": "^5.12.7",
+    "nodemon": "^2.0.7"
+  }
+}
